@@ -1,5 +1,9 @@
 [![CircleCI](https://circleci.com/gh/bitnami/oraclelinux-extras-base.svg?style=svg)](https://circleci.com/gh/bitnami/oraclelinux-extras-base)
 
+# DEPRECATION NOTICE
+
+This image has been deprecated, and will no longer be maintained and updated. Please consider using [oraclelinux](https://hub.docker.com/_/oraclelinux) instead.
+
 # `bitnami/oraclelinux-extras-base`
 
 ## TL;DR
